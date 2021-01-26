@@ -41,7 +41,7 @@ namespace ConsoleApp1
                     foreach (var element in dto.dto.Jobs)
                     {
 
-                        file.WriteLine("{0} {1}", element.Key, element.Value[0]);
+                        file.WriteLine("{0}", element.Key, element.Value[0]);
 
                     }
 
@@ -49,7 +49,9 @@ namespace ConsoleApp1
 
                     foreach (var element in dto.dto.Trucks)
                     {
+
                             file.WriteLine("{0}", element.Key); 
+
                     }
 
 

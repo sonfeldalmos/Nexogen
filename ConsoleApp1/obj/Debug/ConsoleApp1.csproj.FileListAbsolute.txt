@@ -18,3 +18,10 @@ C:\repos\Nexogen\ConsoleApp\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj
 C:\repos\Nexogen\ConsoleApp\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\repos\Nexogen\ConsoleApp\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
 C:\repos\Nexogen\ConsoleApp\ConsoleApp1\ConsoleApp1\bin\Debug\input.txt
+C:\repos\almossonfeld\Nexogen\ConsoleApp1\bin\Debug\input.txt
+C:\repos\almossonfeld\Nexogen\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\repos\almossonfeld\Nexogen\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\repos\almossonfeld\Nexogen\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\repos\almossonfeld\Nexogen\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\repos\almossonfeld\Nexogen\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\repos\almossonfeld\Nexogen\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
