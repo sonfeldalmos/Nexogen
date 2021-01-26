@@ -10,7 +10,14 @@ namespace ConsoleApp1
     {
         public string[] ReadLines(string filePath)
         {
-            return System.IO.File.ReadAllLines(filePath);
+            try
+            {
+                return System.IO.File.ReadAllLines(filePath);
+            }
+            catch {
+                Console.WriteLine("Error during input reading");
+            }
+           
         }
     }
 }

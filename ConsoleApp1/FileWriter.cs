@@ -58,6 +58,7 @@ namespace ConsoleApp1
                 }
             }
             catch {
+                Console.WriteLine("Error during writing result file");
                 throw;
             }
         }
