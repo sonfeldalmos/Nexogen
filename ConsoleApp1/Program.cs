@@ -11,8 +11,16 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            INexogenProblemSolver problemSolver = new NexogenProblemSolver(new FileReader(), new InputValidator(), new Separator(), new TrucksAndJobsMatcher(), new FileWriter());
-            problemSolver.SolveProblem();
+            try {
+
+                INexogenProblemSolver problemSolver = new NexogenProblemSolver(new FileReader(), new InputValidator(), new Separator(), new TrucksAndJobsMatcher(), new FileWriter());
+                problemSolver.SolveProblem();
+
+            }
+            catch
+            {
+                Console.WriteLine("Error occured");
+            }
         }
     }
 }
