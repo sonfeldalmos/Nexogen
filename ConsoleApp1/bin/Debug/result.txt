@@ -1,0 +1,1094 @@
+Paired Trucks and Jobs
+Truck id:2 Job id:5
+Truck id:5 Job id:16
+Truck id:6 Job id:1
+Truck id:8 Job id:3
+Truck id:9 Job id:19
+Truck id:12 Job id:9
+Truck id:13 Job id:15
+Truck id:14 Job id:0
+Truck id:16 Job id:13
+Truck id:18 Job id:17
+Truck id:20 Job id:7
+Truck id:22 Job id:8
+Truck id:24 Job id:20
+Truck id:25 Job id:31
+Truck id:27 Job id:35
+Truck id:32 Job id:92
+Truck id:36 Job id:21
+Truck id:39 Job id:25
+Truck id:41 Job id:33
+Truck id:42 Job id:14
+Truck id:44 Job id:10
+Truck id:49 Job id:18
+Truck id:51 Job id:27
+Truck id:52 Job id:34
+Truck id:53 Job id:23
+Truck id:55 Job id:41
+Truck id:56 Job id:11
+Truck id:58 Job id:2
+Truck id:59 Job id:104
+Truck id:60 Job id:28
+Truck id:63 Job id:51
+Truck id:65 Job id:127
+Truck id:70 Job id:133
+Truck id:73 Job id:32
+Truck id:75 Job id:29
+Truck id:78 Job id:38
+Truck id:82 Job id:39
+Truck id:87 Job id:46
+Truck id:98 Job id:43
+Truck id:101 Job id:54
+Truck id:102 Job id:48
+Truck id:103 Job id:164
+Truck id:113 Job id:49
+Truck id:114 Job id:196
+Truck id:116 Job id:30
+Truck id:117 Job id:55
+Truck id:118 Job id:40
+Truck id:119 Job id:12
+Truck id:120 Job id:56
+Truck id:121 Job id:62
+Truck id:127 Job id:22
+Truck id:131 Job id:42
+Truck id:132 Job id:50
+Truck id:133 Job id:26
+Truck id:142 Job id:4
+Truck id:145 Job id:63
+Truck id:150 Job id:6
+Truck id:152 Job id:61
+Truck id:153 Job id:24
+Truck id:154 Job id:59
+Truck id:158 Job id:64
+Truck id:160 Job id:66
+Truck id:163 Job id:78
+Truck id:164 Job id:60
+Truck id:166 Job id:52
+Truck id:167 Job id:69
+Truck id:170 Job id:45
+Truck id:176 Job id:47
+Truck id:177 Job id:57
+Truck id:178 Job id:80
+Truck id:185 Job id:84
+Truck id:189 Job id:90
+Truck id:193 Job id:125
+Truck id:195 Job id:67
+Truck id:199 Job id:70
+Truck id:200 Job id:65
+Truck id:204 Job id:91
+Truck id:207 Job id:93
+Truck id:208 Job id:71
+Truck id:210 Job id:130
+Truck id:211 Job id:101
+Truck id:212 Job id:36
+Truck id:215 Job id:105
+Truck id:216 Job id:58
+Truck id:218 Job id:149
+Truck id:219 Job id:87
+Truck id:220 Job id:73
+Truck id:222 Job id:76
+Truck id:223 Job id:107
+Truck id:224 Job id:109
+Truck id:227 Job id:161
+Truck id:230 Job id:98
+Truck id:232 Job id:37
+Truck id:234 Job id:177
+Truck id:236 Job id:75
+Truck id:238 Job id:103
+Truck id:241 Job id:110
+Truck id:242 Job id:197
+Truck id:248 Job id:81
+Truck id:250 Job id:116
+Truck id:251 Job id:82
+Truck id:253 Job id:79
+Truck id:255 Job id:203
+Truck id:256 Job id:74
+Truck id:258 Job id:124
+Truck id:259 Job id:111
+Truck id:260 Job id:77
+Truck id:261 Job id:180
+Truck id:263 Job id:86
+Truck id:268 Job id:115
+Truck id:269 Job id:83
+Truck id:274 Job id:99
+Truck id:275 Job id:117
+Truck id:277 Job id:121
+Truck id:278 Job id:44
+Truck id:280 Job id:88
+Truck id:281 Job id:89
+Truck id:282 Job id:95
+Truck id:286 Job id:122
+Truck id:287 Job id:53
+Truck id:294 Job id:129
+Truck id:295 Job id:136
+Truck id:302 Job id:94
+Truck id:304 Job id:138
+Truck id:306 Job id:102
+Truck id:307 Job id:100
+Truck id:311 Job id:139
+Truck id:317 Job id:188
+Truck id:318 Job id:140
+Truck id:320 Job id:68
+Truck id:325 Job id:151
+Truck id:327 Job id:72
+Truck id:331 Job id:96
+Truck id:333 Job id:141
+Truck id:335 Job id:205
+Truck id:340 Job id:112
+Truck id:343 Job id:144
+Truck id:344 Job id:126
+Truck id:345 Job id:128
+Truck id:346 Job id:147
+Truck id:348 Job id:148
+Truck id:350 Job id:85
+Truck id:351 Job id:230
+Truck id:353 Job id:142
+Truck id:361 Job id:159
+Truck id:362 Job id:143
+Truck id:363 Job id:97
+Truck id:364 Job id:165
+Truck id:365 Job id:171
+Truck id:367 Job id:108
+Truck id:368 Job id:113
+Truck id:371 Job id:172
+Truck id:374 Job id:201
+Truck id:377 Job id:160
+Truck id:378 Job id:245
+Truck id:379 Job id:114
+Truck id:381 Job id:118
+Truck id:383 Job id:170
+Truck id:391 Job id:134
+Truck id:392 Job id:173
+Truck id:393 Job id:106
+Truck id:394 Job id:179
+Truck id:398 Job id:181
+Truck id:400 Job id:192
+Truck id:401 Job id:184
+Truck id:402 Job id:247
+Truck id:403 Job id:195
+Truck id:407 Job id:150
+Truck id:412 Job id:123
+Truck id:414 Job id:185
+Truck id:415 Job id:166
+Truck id:416 Job id:152
+Truck id:418 Job id:146
+Truck id:419 Job id:156
+Truck id:423 Job id:216
+Truck id:424 Job id:186
+Truck id:427 Job id:250
+Truck id:429 Job id:154
+Truck id:430 Job id:268
+Truck id:431 Job id:119
+Truck id:433 Job id:187
+Truck id:436 Job id:286
+Truck id:439 Job id:155
+Truck id:440 Job id:189
+Truck id:447 Job id:120
+Truck id:450 Job id:153
+Truck id:451 Job id:219
+Truck id:452 Job id:193
+Truck id:454 Job id:200
+Truck id:458 Job id:204
+Truck id:459 Job id:254
+Truck id:461 Job id:157
+Truck id:462 Job id:163
+Truck id:463 Job id:162
+Truck id:467 Job id:220
+Truck id:471 Job id:167
+Truck id:472 Job id:206
+Truck id:474 Job id:169
+Truck id:479 Job id:292
+Truck id:480 Job id:255
+Truck id:482 Job id:182
+Truck id:484 Job id:191
+Truck id:487 Job id:202
+Truck id:488 Job id:234
+Truck id:490 Job id:208
+Truck id:491 Job id:198
+Truck id:492 Job id:168
+Truck id:497 Job id:174
+Truck id:499 Job id:215
+Truck id:501 Job id:190
+Truck id:505 Job id:222
+Truck id:507 Job id:207
+Truck id:508 Job id:158
+Truck id:509 Job id:295
+Truck id:510 Job id:228
+Truck id:513 Job id:131
+Truck id:518 Job id:303
+Truck id:524 Job id:256
+Truck id:526 Job id:229
+Truck id:527 Job id:194
+Truck id:530 Job id:313
+Truck id:532 Job id:319
+Truck id:533 Job id:209
+Truck id:534 Job id:260
+Truck id:538 Job id:257
+Truck id:540 Job id:231
+Truck id:544 Job id:175
+Truck id:547 Job id:210
+Truck id:548 Job id:199
+Truck id:549 Job id:262
+Truck id:550 Job id:211
+Truck id:554 Job id:239
+Truck id:559 Job id:214
+Truck id:561 Job id:353
+Truck id:563 Job id:264
+Truck id:564 Job id:240
+Truck id:565 Job id:132
+Truck id:566 Job id:269
+Truck id:573 Job id:241
+Truck id:576 Job id:243
+Truck id:582 Job id:267
+Truck id:583 Job id:233
+Truck id:584 Job id:217
+Truck id:586 Job id:246
+Truck id:587 Job id:252
+Truck id:588 Job id:270
+Truck id:591 Job id:258
+Truck id:592 Job id:274
+Truck id:593 Job id:212
+Truck id:596 Job id:248
+Truck id:598 Job id:237
+Truck id:601 Job id:275
+Truck id:604 Job id:223
+Truck id:612 Job id:354
+Truck id:616 Job id:224
+Truck id:618 Job id:259
+Truck id:625 Job id:261
+Truck id:627 Job id:225
+Truck id:628 Job id:135
+Truck id:635 Job id:249
+Truck id:636 Job id:265
+Truck id:637 Job id:273
+Truck id:639 Job id:253
+Truck id:642 Job id:282
+Truck id:643 Job id:278
+Truck id:644 Job id:281
+Truck id:645 Job id:283
+Truck id:646 Job id:271
+Truck id:649 Job id:290
+Truck id:650 Job id:226
+Truck id:651 Job id:375
+Truck id:654 Job id:137
+Truck id:655 Job id:287
+Truck id:658 Job id:387
+Truck id:659 Job id:398
+Truck id:660 Job id:276
+Truck id:664 Job id:288
+Truck id:669 Job id:298
+Truck id:671 Job id:305
+Truck id:673 Job id:235
+Truck id:674 Job id:291
+Truck id:680 Job id:297
+Truck id:682 Job id:306
+Truck id:684 Job id:300
+Truck id:685 Job id:285
+Truck id:687 Job id:293
+Truck id:690 Job id:301
+Truck id:693 Job id:315
+Truck id:695 Job id:326
+Truck id:696 Job id:339
+Truck id:697 Job id:316
+Truck id:700 Job id:242
+Truck id:702 Job id:334
+Truck id:703 Job id:145
+Truck id:704 Job id:309
+Truck id:707 Job id:317
+Truck id:708 Job id:332
+Truck id:710 Job id:333
+Truck id:716 Job id:176
+Truck id:721 Job id:294
+Truck id:722 Job id:335
+Truck id:729 Job id:312
+Truck id:731 Job id:346
+Truck id:733 Job id:213
+Truck id:739 Job id:342
+Truck id:743 Job id:321
+Truck id:747 Job id:251
+Truck id:752 Job id:238
+Truck id:753 Job id:347
+Truck id:754 Job id:280
+Truck id:755 Job id:325
+Truck id:757 Job id:296
+Truck id:759 Job id:178
+Truck id:760 Job id:351
+Truck id:761 Job id:349
+Truck id:768 Job id:337
+Truck id:771 Job id:183
+Truck id:772 Job id:344
+Truck id:776 Job id:352
+Truck id:777 Job id:401
+Truck id:781 Job id:357
+Truck id:786 Job id:411
+Truck id:788 Job id:350
+Truck id:790 Job id:327
+Truck id:793 Job id:365
+Truck id:795 Job id:263
+Truck id:796 Job id:279
+Truck id:797 Job id:310
+Truck id:798 Job id:314
+Truck id:807 Job id:369
+Truck id:810 Job id:299
+Truck id:817 Job id:308
+Truck id:824 Job id:371
+Truck id:826 Job id:289
+Truck id:827 Job id:374
+Truck id:830 Job id:322
+Truck id:833 Job id:426
+Truck id:835 Job id:218
+Truck id:838 Job id:435
+Truck id:841 Job id:414
+Truck id:842 Job id:376
+Truck id:843 Job id:336
+Truck id:845 Job id:422
+Truck id:846 Job id:221
+Truck id:847 Job id:433
+Truck id:849 Job id:227
+Truck id:850 Job id:447
+Truck id:853 Job id:377
+Truck id:854 Job id:454
+Truck id:855 Job id:444
+Truck id:856 Job id:338
+Truck id:858 Job id:320
+Truck id:859 Job id:462
+Truck id:860 Job id:379
+Truck id:861 Job id:356
+Truck id:864 Job id:232
+Truck id:871 Job id:381
+Truck id:873 Job id:470
+Truck id:875 Job id:481
+Truck id:876 Job id:452
+Truck id:878 Job id:485
+Truck id:880 Job id:382
+Truck id:884 Job id:386
+Truck id:885 Job id:393
+Truck id:886 Job id:236
+Truck id:889 Job id:396
+Truck id:891 Job id:397
+Truck id:892 Job id:460
+Truck id:897 Job id:404
+Truck id:898 Job id:368
+Truck id:899 Job id:471
+Truck id:900 Job id:370
+Truck id:903 Job id:328
+Truck id:905 Job id:323
+Truck id:906 Job id:409
+Truck id:908 Job id:244
+Truck id:910 Job id:410
+Truck id:911 Job id:480
+Truck id:913 Job id:324
+Truck id:920 Job id:366
+Truck id:921 Job id:358
+Truck id:922 Job id:413
+Truck id:923 Job id:307
+Truck id:924 Job id:384
+Truck id:926 Job id:311
+Truck id:936 Job id:266
+Truck id:940 Job id:330
+Truck id:944 Job id:416
+Truck id:946 Job id:497
+Truck id:948 Job id:348
+Truck id:950 Job id:417
+Truck id:951 Job id:363
+Truck id:954 Job id:272
+Truck id:955 Job id:318
+Truck id:957 Job id:509
+Truck id:958 Job id:383
+Truck id:959 Job id:329
+Truck id:960 Job id:373
+Truck id:964 Job id:385
+Truck id:965 Job id:391
+Truck id:966 Job id:367
+Truck id:970 Job id:277
+Truck id:971 Job id:407
+Truck id:972 Job id:421
+Truck id:973 Job id:428
+Truck id:974 Job id:284
+Truck id:977 Job id:400
+Truck id:979 Job id:510
+Truck id:982 Job id:341
+Truck id:987 Job id:436
+Truck id:988 Job id:388
+Truck id:990 Job id:437
+Truck id:991 Job id:511
+Truck id:993 Job id:439
+Truck id:998 Job id:395
+Truck id:999 Job id:443
+Truck id:1000 Job id:399
+Truck id:3 Job id:403
+Truck id:10 Job id:412
+Truck id:11 Job id:451
+Truck id:15 Job id:453
+Truck id:28 Job id:378
+Truck id:30 Job id:406
+Truck id:34 Job id:420
+Truck id:48 Job id:455
+Truck id:66 Job id:345
+Truck id:71 Job id:415
+Truck id:72 Job id:458
+Truck id:80 Job id:459
+Truck id:81 Job id:463
+Truck id:85 Job id:355
+Truck id:86 Job id:464
+Truck id:88 Job id:465
+Truck id:90 Job id:423
+Truck id:95 Job id:473
+Truck id:99 Job id:479
+Truck id:104 Job id:424
+Truck id:106 Job id:419
+Truck id:110 Job id:302
+Truck id:112 Job id:489
+Truck id:122 Job id:490
+Truck id:128 Job id:418
+Truck id:137 Job id:491
+Truck id:139 Job id:440
+Truck id:140 Job id:494
+Truck id:143 Job id:495
+Truck id:146 Job id:432
+Truck id:148 Job id:425
+Truck id:151 Job id:496
+Truck id:157 Job id:502
+Truck id:159 Job id:503
+Truck id:161 Job id:504
+Truck id:171 Job id:438
+Truck id:172 Job id:456
+Truck id:173 Job id:431
+Truck id:179 Job id:466
+Truck id:182 Job id:505
+Truck id:183 Job id:304
+Truck id:184 Job id:507
+Truck id:187 Job id:506
+Truck id:188 Job id:513
+Truck id:190 Job id:442
+Truck id:191 Job id:450
+Truck id:196 Job id:331
+Truck id:197 Job id:359
+Truck id:201 Job id:468
+Truck id:202 Job id:361
+Truck id:203 Job id:516
+Truck id:205 Job id:434
+Truck id:206 Job id:517
+Truck id:214 Job id:520
+Truck id:240 Job id:528
+Truck id:244 Job id:446
+Truck id:245 Job id:364
+Truck id:246 Job id:515
+Truck id:266 Job id:372
+Truck id:267 Job id:530
+Truck id:272 Job id:390
+Truck id:276 Job id:532
+Truck id:285 Job id:533
+Truck id:288 Job id:472
+Truck id:293 Job id:535
+Truck id:296 Job id:541
+Truck id:297 Job id:392
+Truck id:298 Job id:457
+Truck id:299 Job id:478
+Truck id:303 Job id:542
+Truck id:310 Job id:547
+Truck id:312 Job id:402
+Truck id:314 Job id:405
+Truck id:321 Job id:408
+Truck id:322 Job id:467
+Truck id:323 Job id:518
+Truck id:324 Job id:551
+Truck id:328 Job id:484
+Truck id:337 Job id:477
+Truck id:338 Job id:429
+Truck id:360 Job id:556
+Truck id:369 Job id:430
+Truck id:370 Job id:562
+Truck id:372 Job id:486
+Truck id:384 Job id:525
+Truck id:389 Job id:461
+Truck id:397 Job id:567
+Truck id:405 Job id:487
+Truck id:408 Job id:498
+Truck id:413 Job id:569
+Truck id:441 Job id:469
+Truck id:442 Job id:488
+Truck id:443 Job id:474
+Truck id:444 Job id:499
+Truck id:445 Job id:483
+Truck id:448 Job id:482
+Truck id:453 Job id:570
+Truck id:457 Job id:574
+Truck id:465 Job id:501
+Truck id:468 Job id:558
+Truck id:477 Job id:493
+Truck id:485 Job id:514
+Truck id:489 Job id:575
+Truck id:494 Job id:500
+Truck id:498 Job id:576
+Truck id:502 Job id:508
+Truck id:503 Job id:523
+Truck id:504 Job id:580
+Truck id:514 Job id:519
+Truck id:516 Job id:534
+Truck id:521 Job id:512
+Truck id:522 Job id:524
+Truck id:525 Job id:582
+Truck id:539 Job id:593
+Truck id:542 Job id:526
+Truck id:545 Job id:522
+Truck id:553 Job id:601
+Truck id:555 Job id:537
+Truck id:567 Job id:527
+Truck id:570 Job id:529
+Truck id:572 Job id:603
+Truck id:574 Job id:536
+Truck id:575 Job id:607
+Truck id:577 Job id:568
+Truck id:578 Job id:539
+Truck id:580 Job id:549
+Truck id:585 Job id:608
+Truck id:589 Job id:557
+Truck id:590 Job id:611
+Truck id:602 Job id:531
+Truck id:606 Job id:540
+Truck id:610 Job id:566
+Truck id:613 Job id:550
+Truck id:617 Job id:615
+Truck id:620 Job id:561
+Truck id:622 Job id:579
+Truck id:623 Job id:545
+Truck id:624 Job id:616
+Truck id:640 Job id:546
+Truck id:662 Job id:584
+Truck id:663 Job id:617
+Truck id:666 Job id:578
+Truck id:675 Job id:563
+Truck id:677 Job id:543
+Truck id:679 Job id:619
+Truck id:683 Job id:620
+Truck id:688 Job id:564
+Truck id:689 Job id:623
+Truck id:691 Job id:553
+Truck id:692 Job id:624
+Truck id:698 Job id:587
+Truck id:706 Job id:626
+Truck id:709 Job id:638
+Truck id:711 Job id:548
+Truck id:726 Job id:554
+Truck id:727 Job id:583
+Truck id:738 Job id:641
+Truck id:744 Job id:555
+Truck id:745 Job id:588
+Truck id:749 Job id:589
+Truck id:750 Job id:597
+Truck id:762 Job id:577
+Truck id:765 Job id:600
+Truck id:769 Job id:596
+Truck id:773 Job id:565
+Truck id:778 Job id:602
+Truck id:782 Job id:571
+Truck id:783 Job id:606
+Truck id:784 Job id:613
+Truck id:787 Job id:644
+Truck id:792 Job id:649
+Truck id:803 Job id:650
+Truck id:805 Job id:628
+Truck id:806 Job id:651
+Truck id:808 Job id:585
+Truck id:813 Job id:590
+Truck id:814 Job id:652
+Truck id:823 Job id:655
+Truck id:828 Job id:340
+Truck id:831 Job id:656
+Truck id:839 Job id:586
+Truck id:851 Job id:591
+Truck id:852 Job id:659
+Truck id:862 Job id:663
+Truck id:865 Job id:592
+Truck id:866 Job id:653
+Truck id:867 Job id:612
+Truck id:870 Job id:665
+Truck id:879 Job id:667
+Truck id:883 Job id:672
+Truck id:887 Job id:559
+Truck id:888 Job id:673
+Truck id:890 Job id:681
+Truck id:894 Job id:573
+Truck id:895 Job id:610
+Truck id:896 Job id:690
+Truck id:909 Job id:695
+Truck id:914 Job id:636
+Truck id:918 Job id:343
+Truck id:930 Job id:625
+Truck id:937 Job id:669
+Truck id:938 Job id:581
+Truck id:941 Job id:595
+Truck id:943 Job id:698
+Truck id:949 Job id:705
+Truck id:952 Job id:640
+Truck id:983 Job id:685
+Truck id:986 Job id:706
+Truck id:989 Job id:707
+Truck id:992 Job id:709
+Truck id:21 Job id:642
+Truck id:29 Job id:627
+Truck id:33 Job id:599
+Truck id:43 Job id:648
+Truck id:45 Job id:594
+Truck id:61 Job id:631
+Truck id:76 Job id:666
+Truck id:91 Job id:635
+Truck id:92 Job id:614
+Truck id:126 Job id:668
+Truck id:135 Job id:637
+Truck id:138 Job id:646
+Truck id:147 Job id:605
+Truck id:155 Job id:658
+Truck id:168 Job id:675
+Truck id:174 Job id:609
+Truck id:180 Job id:683
+Truck id:213 Job id:693
+Truck id:225 Job id:647
+Truck id:231 Job id:700
+Truck id:243 Job id:661
+Truck id:270 Job id:660
+Truck id:271 Job id:687
+Truck id:289 Job id:714
+Truck id:292 Job id:679
+Truck id:300 Job id:697
+Truck id:308 Job id:670
+Truck id:313 Job id:632
+Truck id:319 Job id:731
+Truck id:326 Job id:733
+Truck id:336 Job id:633
+Truck id:341 Job id:671
+Truck id:349 Job id:743
+Truck id:355 Job id:676
+Truck id:357 Job id:727
+Truck id:366 Job id:761
+Truck id:386 Job id:732
+Truck id:388 Job id:702
+Truck id:390 Job id:772
+Truck id:396 Job id:639
+Truck id:406 Job id:780
+Truck id:421 Job id:736
+Truck id:428 Job id:793
+Truck id:434 Job id:643
+Truck id:437 Job id:677
+Truck id:438 Job id:814
+Truck id:460 Job id:818
+Truck id:475 Job id:717
+Truck id:476 Job id:694
+Truck id:495 Job id:678
+Truck id:511 Job id:721
+Truck id:535 Job id:723
+Truck id:543 Job id:821
+Truck id:551 Job id:738
+Truck id:557 Job id:741
+Truck id:569 Job id:747
+Truck id:571 Job id:703
+Truck id:579 Job id:680
+Truck id:594 Job id:752
+Truck id:599 Job id:704
+Truck id:603 Job id:822
+Truck id:605 Job id:708
+Truck id:607 Job id:750
+Truck id:608 Job id:654
+Truck id:615 Job id:824
+Truck id:626 Job id:830
+Truck id:630 Job id:715
+Truck id:647 Job id:753
+Truck id:661 Job id:724
+Truck id:665 Job id:734
+Truck id:672 Job id:863
+Truck id:678 Job id:711
+Truck id:699 Job id:873
+Truck id:717 Job id:739
+Truck id:718 Job id:360
+Truck id:719 Job id:735
+Truck id:734 Job id:746
+Truck id:746 Job id:876
+Truck id:748 Job id:712
+Truck id:766 Job id:757
+Truck id:791 Job id:755
+Truck id:794 Job id:878
+Truck id:811 Job id:748
+Truck id:815 Job id:662
+Truck id:825 Job id:907
+Truck id:869 Job id:749
+Truck id:893 Job id:754
+Truck id:901 Job id:760
+Truck id:915 Job id:756
+Truck id:925 Job id:913
+Truck id:927 Job id:674
+Truck id:931 Job id:769
+Truck id:933 Job id:716
+Truck id:962 Job id:751
+Truck id:981 Job id:920
+Truck id:994 Job id:682
+Truck id:996 Job id:684
+Truck id:46 Job id:762
+Truck id:47 Job id:774
+Truck id:57 Job id:778
+Truck id:83 Job id:781
+Truck id:96 Job id:789
+Truck id:105 Job id:758
+Truck id:108 Job id:765
+Truck id:109 Job id:802
+Truck id:111 Job id:777
+Truck id:123 Job id:766
+Truck id:125 Job id:691
+Truck id:141 Job id:816
+Truck id:149 Job id:835
+Truck id:156 Job id:768
+Truck id:175 Job id:839
+Truck id:186 Job id:692
+Truck id:194 Job id:850
+Truck id:229 Job id:880
+Truck id:237 Job id:887
+Truck id:239 Job id:808
+Truck id:249 Job id:905
+Truck id:257 Job id:916
+Truck id:283 Job id:699
+Truck id:284 Job id:701
+Truck id:329 Job id:787
+Truck id:347 Job id:918
+Truck id:354 Job id:713
+Truck id:356 Job id:362
+Truck id:359 Job id:722
+Truck id:387 Job id:820
+Truck id:395 Job id:759
+Truck id:409 Job id:380
+Truck id:425 Job id:763
+Truck id:432 Job id:924
+Truck id:455 Job id:790
+Truck id:456 Job id:798
+Truck id:469 Job id:801
+Truck id:515 Job id:389
+Truck id:519 Job id:799
+Truck id:546 Job id:937
+Truck id:629 Job id:730
+Truck id:631 Job id:786
+Truck id:633 Job id:394
+Truck id:652 Job id:842
+Truck id:676 Job id:427
+Truck id:705 Job id:836
+Truck id:713 Job id:804
+Truck id:723 Job id:851
+Truck id:725 Job id:837
+Truck id:732 Job id:940
+Truck id:740 Job id:854
+Truck id:741 Job id:764
+Truck id:751 Job id:947
+Truck id:756 Job id:951
+Truck id:774 Job id:771
+Truck id:799 Job id:861
+Truck id:800 Job id:817
+Truck id:801 Job id:773
+Truck id:804 Job id:806
+Truck id:809 Job id:977
+Truck id:816 Job id:991
+Truck id:818 Job id:890
+Truck id:820 Job id:819
+Truck id:822 Job id:857
+Truck id:829 Job id:997
+Truck id:881 Job id:860
+Truck id:916 Job id:827
+Truck id:942 Job id:441
+Truck id:975 Job id:807
+Truck id:980 Job id:797
+Truck id:995 Job id:812
+Truck id:19 Job id:840
+Truck id:37 Job id:844
+Truck id:84 Job id:813
+Truck id:89 Job id:445
+Truck id:94 Job id:825
+Truck id:115 Job id:846
+Truck id:129 Job id:832
+Truck id:130 Job id:847
+Truck id:134 Job id:849
+Truck id:136 Job id:866
+Truck id:165 Job id:874
+Truck id:198 Job id:884
+Truck id:235 Job id:891
+Truck id:252 Job id:897
+Truck id:262 Job id:903
+Truck id:265 Job id:893
+Truck id:291 Job id:883
+Truck id:330 Job id:935
+Truck id:339 Job id:936
+Truck id:380 Job id:941
+Truck id:404 Job id:448
+Truck id:411 Job id:956
+Truck id:420 Job id:449
+Truck id:470 Job id:968
+Truck id:473 Job id:978
+Truck id:481 Job id:981
+Truck id:483 Job id:992
+Truck id:520 Job id:475
+Truck id:528 Job id:476
+Truck id:568 Job id:899
+Truck id:614 Job id:803
+Truck id:621 Job id:900
+Truck id:656 Job id:906
+Truck id:712 Job id:805
+Truck id:714 Job id:834
+Truck id:736 Job id:921
+Truck id:764 Job id:904
+Truck id:779 Job id:492
+Truck id:802 Job id:521
+Truck id:819 Job id:841
+Truck id:836 Job id:912
+Truck id:928 Job id:910
+Truck id:932 Job id:914
+Truck id:968 Job id:934
+Truck id:17 Job id:953
+Truck id:26 Job id:961
+Truck id:31 Job id:966
+Truck id:64 Job id:975
+Truck id:67 Job id:922
+Truck id:93 Job id:925
+Truck id:124 Job id:843
+Truck id:181 Job id:942
+Truck id:228 Job id:845
+Truck id:315 Job id:870
+Truck id:358 Job id:538
+Truck id:385 Job id:928
+Truck id:410 Job id:544
+Truck id:493 Job id:945
+Truck id:536 Job id:888
+Truck id:541 Job id:552
+Truck id:556 Job id:948
+Truck id:609 Job id:930
+Truck id:619 Job id:898
+Truck id:812 Job id:560
+Truck id:821 Job id:572
+Truck id:868 Job id:933
+Truck id:917 Job id:959
+Truck id:967 Job id:964
+Truck id:1 Job id:946
+Truck id:50 Job id:952
+Truck id:74 Job id:957
+Truck id:77 Job id:958
+Truck id:79 Job id:963
+Truck id:107 Job id:919
+Truck id:221 Job id:967
+Truck id:247 Job id:974
+Truck id:273 Job id:982
+Truck id:290 Job id:598
+Truck id:464 Job id:926
+Truck id:632 Job id:938
+Truck id:737 Job id:950
+Truck id:934 Job id:604
+Truck id:984 Job id:955
+Truck id:985 Job id:618
+Truck id:68 Job id:986
+Truck id:667 Job id:987
+Truck id:724 Job id:621
+Truck id:882 Job id:622
+Truck id:961 Job id:995
+Truck id:7 Job id:629
+Truck id:23 Job id:630
+Truck id:35 Job id:634
+Truck id:38 Job id:645
+Truck id:62 Job id:657
+Truck id:100 Job id:664
+Truck id:264 Job id:686
+Truck id:301 Job id:688
+Truck id:305 Job id:689
+Truck id:309 Job id:696
+Truck id:375 Job id:718
+Truck id:446 Job id:725
+Truck id:512 Job id:729
+Truck id:653 Job id:770
+Truck id:715 Job id:779
+Truck id:758 Job id:792
+Truck id:763 Job id:794
+Truck id:770 Job id:795
+Truck id:834 Job id:811
+Truck id:848 Job id:826
+Truck id:863 Job id:848
+Truck id:907 Job id:858
+Truck id:929 Job id:872
+Truck id:935 Job id:895
+Truck id:953 Job id:908
+Truck id:969 Job id:911
+Truck id:4 Job id:998
+Unpaired Jobs:
+710 A
+719 A
+720 A
+726 A
+728 A
+737 A
+740 A
+742 A
+744 A
+745 A
+767 A
+775 A
+776 A
+782 A
+783 A
+784 A
+785 A
+788 A
+791 A
+796 A
+800 A
+809 A
+810 A
+815 A
+823 A
+828 A
+829 A
+831 A
+833 A
+838 A
+852 A
+853 A
+855 A
+856 A
+859 A
+862 A
+864 A
+865 A
+867 A
+868 A
+869 A
+871 A
+875 A
+877 A
+879 A
+881 A
+882 A
+885 A
+886 A
+889 A
+892 A
+894 A
+896 A
+901 A
+902 A
+909 A
+915 A
+917 A
+923 C
+927 A
+929 A
+931 A
+932 I
+939 A
+943 A
+944 A
+949 A
+954 A
+960 C
+962 A
+965 A
+969 A
+970 A
+971 A
+972 A
+973 A
+976 C
+979 C
+980 A
+983 A
+984 C
+985 A
+988 A
+989 A
+990 A
+993 A
+994 A
+996 A
+999 A
+Unpaired Trucks:
+40H
+54D
+69E
+97H
+144H
+162H
+169D
+192H
+209H
+217H
+226H
+233H
+254E
+279D
+316H
+332F
+334E
+342F
+352D
+373H
+376D
+382D
+399D
+417F
+422H
+426E
+435E
+449F
+466D
+478E
+486G
+496F
+500F
+506G
+517E
+523D
+529E
+531E
+537D
+552F
+552H
+558F
+560E
+562D
+581H
+595F
+597G
+600H
+611E
+634G
+638G
+641H
+648G
+657E
+668G
+670F
+681F
+686H
+694G
+701D
+720H
+728F
+730G
+735F
+735H
+742F
+767D
+775D
+780D
+785E
+789F
+832E
+837E
+840G
+844G
+857H
+872E
+874E
+877E
+902H
+904B
+912B
+919B
+939H
+945E
+947H
+956E
+963F
+976H
+978E
+997D
