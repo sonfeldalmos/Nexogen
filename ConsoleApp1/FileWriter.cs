@@ -49,11 +49,7 @@ namespace ConsoleApp1
 
                     foreach (var element in dto.dto.Trucks)
                     {
-
-                        foreach (var item in element.Value) {
-                            file.WriteLine("{0}{1}", element.Key, item);
-                        }
-                        
+                            file.WriteLine("{0}", element.Key); 
                     }
 
 
